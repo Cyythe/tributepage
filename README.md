@@ -5,11 +5,10 @@ A one page, scrolling web page as a tribute to *The Greatest of All Time*
 
 ---
 ## Motivation                                                            
-  This project was created during my introduction to web programming.  It was the result of one of the first challenges at [Free Code Camp](https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works).  This site is my first web-based project.    
+This project was created during my introduction to web programming.  It was the result of one of the first challenges at [Free Code Camp](https://www.freecodecamp.org/challenges/learn-how-freecodecamp-works).  This site is my first web-based project.    
 
 ---
 ## Screenshot
-### Home
 ![alt text](https://github.com/ptmjddavis/Tribute-Page/blob/gh-pages/Tribute%20Page001.png "Screenshot")
 
 
