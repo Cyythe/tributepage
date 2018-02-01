@@ -9,7 +9,7 @@ This project was created during my introduction to web programming.  It was the 
 
 ---
 ## Screenshot
-![alt text](https://github.com/ptmjddavis/Tribute-Page/blob/gh-pages/Tribute%20Page001.png "Screenshot")
+![alt text](https://github.com/michael-j-davis/Tribute-Page/blob/gh-pages/Tribute%20Page001.png "Screenshot")
 
 
 ---
